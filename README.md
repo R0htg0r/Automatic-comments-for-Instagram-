@@ -1,13 +1,14 @@
 # Auto Comments
-Se estiver pensando em enviar comentários para seu Instagram do modo mais fácil,
-esse software fará o serviço.
+&nbsp;Nenhuma credencial é solicitada pela aplicação, por motivos de privacidade, segurança e anonimato. <br>
 
-# Modules
-imported colorama
-imported pyautogui
-imported os
-imported time
+# Descrição
+&nbsp;Essa aplicação está usando Inteligência de reconhecimento de imagem, ou seja, para a aplicação funcionar
+corretamente, não deixe que o Console fique por cima do botão do chat.
 
-# Demonstration
-A única interface disponível para essa aplicação está sendo disponibilizada em Co
-![alt text](http://url/to/img.png)
+# Demonstração
+&nbsp;Se quiser o código fonte dessa aplicação entre em contato no grupo do Discord, para poder obter(não garantimos nada).
+
+![alt text](img/Screenshot_1.png)
+
+# Discord
+<a href="https://discord.gg/CHsnjZB3Ec">Participar</p>
