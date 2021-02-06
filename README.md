@@ -10,5 +10,5 @@ corretamente, não deixe que o Console fique por cima do botão do chat.
 
 ![alt text](img/Screenshot_1.png)
 
-# Discord
-<a href="https://discord.gg/CHsnjZB3Ec">Participar</p>
+# Contato & Suporte
+<a href="https://discord.gg/CHsnjZB3Ec">Juntar-se ao Discord</p>
